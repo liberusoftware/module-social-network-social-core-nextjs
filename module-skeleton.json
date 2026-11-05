@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-social-core-nextjs",
+  "capabilityKey": "liberusoftware/module-social-network-social-core",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-social-network-social-core-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/social-network/nextjs/social-core.md",
+  "presentationPlan": "projects/social-network/nextjs/social-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
